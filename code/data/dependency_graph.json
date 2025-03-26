@@ -1,0 +1,78 @@
+{
+  "applications": [
+    {
+      "name": "web-service-1",
+      "dependencies": [
+        "database-1",
+        "message-queue-1"
+      ]
+    },
+    {
+      "name": "web-service-2",
+      "dependencies": [
+        "web-service-1",
+        "cache-1"
+      ]
+    },
+    {
+      "name": "web-service-3",
+      "dependencies": [
+        "web-service-1",
+        "api-gateway-1"
+      ]
+    },
+    {
+      "name": "web-service-4",
+      "dependencies": [
+        "web-service-2",
+        "web-service-3"
+      ]
+    },
+    {
+      "name": "database-1",
+      "dependencies": []
+    },
+    {
+      "name": "message-queue-1",
+      "dependencies": []
+    },
+      {
+      "name": "cache-1",
+      "dependencies": []
+    },
+     {
+      "name": "api-gateway-1",
+      "dependencies": []
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "server-1",
+      "hosts": [
+        "web-service-1",
+        "database-1"
+      ]
+    },
+    {
+      "name": "server-2",
+      "hosts": [
+        "web-service-2",
+        "message-queue-1"
+      ]
+    },
+    {
+      "name": "server-3",
+      "hosts": [
+        "web-service-3",
+        "cache-1"
+      ]
+    },
+    {
+      "name": "server-4",
+      "hosts": [
+        "web-service-4",
+        "api-gateway-1"
+      ]
+    }
+  ]
+}

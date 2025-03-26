@@ -1,0 +1,101 @@
+CI_ID,CI_Type,Name,OperatingSystem,Environment,Application,Vendor,IP_Address,Version,InstallDate,Status,CPU_Cores,Memory_GB,Database_Type,Network_Interface,Load_Balancing_Algorithm,Region,Owner
+CI-0001,Application,Application-717,,Test,message-queue-1,Oracle,,4.2.0,2024-04-10,Stopped,,,,,,US-West,User-27
+CI-0002,Server,Server-785,Windows Server 2019,Production,,Microsoft,192.168.158.147,5.7.1,2024-06-12,Maintenance,10.0,4.0,,,,AP-Southeast,User-89
+CI-0003,LoadBalancer,LoadBalancer-169,,Development,,Cisco,192.168.190.16,5.2.9,2024-04-07,Stopped,,,,,IP Hash,EU-Central,User-66
+CI-0004,NetworkDevice,NetworkDevice-660,,Staging,,HP,192.168.219.71,3.5.8,2024-10-16,Maintenance,,,,Fiber,,US-West,User-20
+CI-0005,Server,Server-341,macOS Server,Test,,Oracle,192.168.209.90,4.3.3,2024-11-26,Running,3.0,14.0,,,,US-East,User-62
+CI-0006,Server,Server-282,Linux CentOS 7,Development,,Cisco,192.168.56.240,3.5.0,2024-09-10,Running,12.0,18.0,,,,US-East,User-51
+CI-0007,Database,Database-548,,Staging,,Microsoft,,4.2.8,2024-07-13,Maintenance,,,PostgreSQL,,,US-East,User-16
+CI-0008,LoadBalancer,LoadBalancer-162,,Staging,,Microsoft,192.168.179.77,2.7.1,2025-01-19,Maintenance,,,,,IP Hash,US-West,User-45
+CI-0009,LoadBalancer,LoadBalancer-338,,Test,,Dell,192.168.221.254,2.3.2,2024-07-15,Running,,,,,Least Connections,AP-Southeast,User-93
+CI-0010,Application,Application-926,,Test,api-gateway-1,Microsoft,,2.4.6,2025-02-07,Running,,,,,,US-East,User-92
+CI-0011,Database,Database-252,,Test,,Cisco,,2.8.5,2024-05-19,Error,,,OracleDB,,,US-East,User-55
+CI-0012,Application,Application-883,,Production,server-2,Dell,,3.7.7,2025-02-18,Maintenance,,,,,,AP-Southeast,User-35
+CI-0013,Application,Application-296,,Production,server-1,HP,,5.7.6,2024-06-14,Stopped,,,,,,US-West,User-83
+CI-0014,Application,Application-275,,Test,server-2,Oracle,,1.9.6,2024-11-21,Maintenance,,,,,,US-East,User-92
+CI-0015,NetworkDevice,NetworkDevice-181,,Test,,Dell,192.168.1.232,3.9.8,2024-04-19,Stopped,,,,Fiber,,AP-Southeast,User-20
+CI-0016,Server,Server-758,Windows Server 2019,Staging,,Cisco,192.168.200.158,3.8.9,2024-08-29,Stopped,3.0,54.0,,,,US-East,User-20
+CI-0017,Database,Database-427,,Production,,Cisco,,4.4.2,2024-10-22,Running,,,MongoDB,,,AP-Southeast,User-45
+CI-0018,NetworkDevice,NetworkDevice-577,,Staging,,Dell,192.168.97.201,2.8.2,2025-01-07,Stopped,,,,Fiber,,US-West,User-57
+CI-0019,NetworkDevice,NetworkDevice-507,,Production,,VMware,192.168.116.53,3.4.8,2024-04-15,Stopped,,,,Ethernet,,AP-Southeast,User-45
+CI-0020,Database,Database-839,,Production,,Microsoft,,3.1.9,2024-10-11,Error,,,MySQL,,,US-East,User-69
+CI-0021,Application,Application-466,,Development,web-service-1,VMware,,4.0.1,2024-05-24,Running,,,,,,AP-Southeast,User-68
+CI-0022,Server,Server-525,Linux CentOS 7,Production,,Microsoft,192.168.70.128,1.0.7,2024-09-24,Stopped,3.0,9.0,,,,AP-Southeast,User-20
+CI-0023,Database,Database-950,,Staging,,Cisco,,4.2.8,2024-06-29,Running,,,OracleDB,,,US-West,User-79
+CI-0024,NetworkDevice,NetworkDevice-208,,Production,,Microsoft,192.168.104.144,2.3.6,2025-02-19,Running,,,,Wireless,,AP-Southeast,User-93
+CI-0025,Application,Application-108,,Test,database-1,VMware,,5.9.7,2024-10-22,Stopped,,,,,,US-West,User-58
+CI-0026,Database,Database-862,,Production,,Cisco,,4.1.0,2024-12-26,Running,,,PostgreSQL,,,EU-Central,User-81
+CI-0027,NetworkDevice,NetworkDevice-409,,Production,,VMware,192.168.89.253,2.3.0,2024-11-21,Error,,,,Ethernet,,EU-Central,User-68
+CI-0028,Application,Application-592,,Test,web-service-4,Dell,,2.0.4,2024-05-07,Running,,,,,,AP-Southeast,User-53
+CI-0029,Application,Application-246,,Development,server-3,HP,,3.0.3,2024-08-15,Error,,,,,,EU-Central,User-96
+CI-0030,Database,Database-807,,Production,,HP,,1.9.0,2024-06-03,Running,,,OracleDB,,,EU-Central,User-70
+CI-0031,Server,Server-114,Ubuntu 20.04,Development,,VMware,192.168.235.80,3.7.0,2024-09-17,Running,13.0,32.0,,,,EU-Central,User-84
+CI-0032,Database,Database-641,,Production,,VMware,,4.1.4,2024-12-24,Error,,,MySQL,,,US-West,User-72
+CI-0033,Database,Database-320,,Staging,,HP,,3.9.4,2024-08-04,Maintenance,,,OracleDB,,,AP-Southeast,User-78
+CI-0034,Database,Database-396,,Development,,Cisco,,4.7.9,2024-06-04,Maintenance,,,MySQL,,,US-West,User-84
+CI-0035,Database,Database-588,,Test,,Microsoft,,4.6.7,2025-02-13,Stopped,,,MySQL,,,US-West,User-46
+CI-0036,Server,Server-700,Ubuntu 20.04,Production,,VMware,192.168.174.137,2.5.8,2025-01-28,Running,16.0,10.0,,,,AP-Southeast,User-33
+CI-0037,Server,Server-563,Windows Server 2019,Test,,Cisco,192.168.152.174,1.1.0,2024-09-20,Running,15.0,28.0,,,,US-West,User-59
+CI-0038,LoadBalancer,LoadBalancer-279,,Test,,Oracle,192.168.251.23,1.0.9,2025-01-13,Error,,,,,Round Robin,US-West,User-60
+CI-0039,Server,Server-793,Ubuntu 20.04,Development,,Oracle,192.168.252.139,4.6.7,2024-07-01,Error,3.0,15.0,,,,US-West,User-74
+CI-0040,Server,Server-535,Linux CentOS 7,Production,,Oracle,192.168.14.205,5.3.6,2024-08-29,Stopped,12.0,64.0,,,,US-East,User-26
+CI-0041,Database,Database-596,,Development,,VMware,,2.7.3,2024-10-24,Maintenance,,,PostgreSQL,,,EU-Central,User-44
+CI-0042,Database,Database-555,,Test,,HP,,3.9.8,2024-12-21,Stopped,,,MongoDB,,,US-East,User-93
+CI-0043,NetworkDevice,NetworkDevice-393,,Production,,Oracle,192.168.193.213,5.0.5,2024-04-29,Running,,,,Ethernet,,US-West,User-34
+CI-0044,Application,Application-221,,Production,web-service-2,Oracle,,5.9.9,2024-05-14,Stopped,,,,,,EU-Central,User-24
+CI-0045,LoadBalancer,LoadBalancer-166,,Test,,VMware,192.168.56.79,5.0.2,2024-08-01,Maintenance,,,,,Round Robin,EU-Central,User-72
+CI-0046,Application,Application-406,,Development,server-4,Oracle,,2.8.4,2024-08-01,Stopped,,,,,,EU-Central,User-54
+CI-0047,Database,Database-992,,Test,,Cisco,,4.1.6,2024-11-11,Stopped,,,OracleDB,,,AP-Southeast,User-45
+CI-0048,NetworkDevice,NetworkDevice-745,,Production,,VMware,192.168.223.24,5.9.1,2025-01-17,Error,,,,Wireless,,EU-Central,User-75
+CI-0049,LoadBalancer,LoadBalancer-874,,Staging,,Cisco,192.168.91.217,2.4.8,2024-07-04,Error,,,,,Round Robin,EU-Central,User-34
+CI-0050,Database,Database-592,,Development,,HP,,1.9.7,2024-03-30,Stopped,,,MySQL,,,US-West,User-65
+CI-0051,NetworkDevice,NetworkDevice-433,,Staging,,VMware,192.168.236.109,4.2.9,2024-06-04,Running,,,,Ethernet,,US-East,User-78
+CI-0052,Database,Database-994,,Staging,,HP,,2.1.7,2024-08-16,Maintenance,,,MongoDB,,,US-West,User-18
+CI-0053,Application,Application-490,,Staging,server-3,Cisco,,1.1.7,2024-09-26,Stopped,,,,,,US-East,User-63
+CI-0054,Application,Application-689,,Production,database-1,VMware,,4.7.6,2024-08-29,Maintenance,,,,,,EU-Central,User-53
+CI-0055,Application,Application-913,,Staging,cache-1,VMware,,3.0.8,2025-02-23,Error,,,,,,US-East,User-64
+CI-0056,Server,Server-198,Windows Server 2019,Production,,Dell,192.168.203.81,2.7.5,2024-08-30,Running,4.0,19.0,,,,US-West,User-13
+CI-0057,Database,Database-774,,Production,,HP,,2.9.1,2024-12-22,Error,,,PostgreSQL,,,AP-Southeast,User-43
+CI-0058,Application,Application-284,,Production,web-service-4,VMware,,1.9.6,2024-08-10,Error,,,,,,AP-Southeast,User-37
+CI-0059,Database,Database-207,,Development,,HP,,3.0.6,2024-04-01,Running,,,PostgreSQL,,,AP-Southeast,User-89
+CI-0060,LoadBalancer,LoadBalancer-253,,Development,,Dell,192.168.38.206,1.0.6,2025-02-02,Maintenance,,,,,Round Robin,US-East,User-83
+CI-0061,NetworkDevice,NetworkDevice-264,,Production,,VMware,192.168.61.156,2.6.6,2024-07-12,Error,,,,Wireless,,US-East,User-96
+CI-0062,NetworkDevice,NetworkDevice-258,,Production,,Cisco,192.168.143.127,3.3.2,2024-10-13,Stopped,,,,Wireless,,US-West,User-14
+CI-0063,Database,Database-521,,Test,,VMware,,5.5.0,2024-11-09,Running,,,MongoDB,,,US-East,User-31
+CI-0064,Application,Application-161,,Test,message-queue-1,HP,,3.6.0,2024-10-30,Maintenance,,,,,,AP-Southeast,User-57
+CI-0065,Database,Database-681,,Test,,Oracle,,3.7.1,2024-11-29,Error,,,PostgreSQL,,,EU-Central,User-70
+CI-0066,NetworkDevice,NetworkDevice-617,,Development,,HP,192.168.99.54,2.6.2,2024-09-11,Maintenance,,,,Ethernet,,EU-Central,User-71
+CI-0067,Application,Application-524,,Staging,database-1,Oracle,,3.4.7,2024-08-22,Maintenance,,,,,,EU-Central,User-96
+CI-0068,NetworkDevice,NetworkDevice-417,,Staging,,VMware,192.168.169.240,3.1.9,2024-10-17,Error,,,,Ethernet,,EU-Central,User-16
+CI-0069,Server,Server-969,Linux CentOS 7,Production,,Cisco,192.168.114.174,2.3.0,2025-02-02,Running,9.0,41.0,,,,US-East,User-33
+CI-0070,Database,Database-403,,Development,,HP,,1.9.3,2024-09-16,Error,,,PostgreSQL,,,EU-Central,User-74
+CI-0071,Server,Server-977,Windows Server 2019,Staging,,Oracle,192.168.156.220,1.1.2,2024-09-17,Stopped,6.0,59.0,,,,US-East,User-29
+CI-0072,LoadBalancer,LoadBalancer-639,,Development,,Cisco,192.168.159.100,3.8.6,2024-07-05,Maintenance,,,,,IP Hash,AP-Southeast,User-33
+CI-0073,Application,Application-797,,Staging,database-1,HP,,1.3.5,2024-03-26,Error,,,,,,US-East,User-23
+CI-0074,NetworkDevice,NetworkDevice-916,,Staging,,Oracle,192.168.101.157,2.5.1,2024-07-14,Maintenance,,,,Wireless,,EU-Central,User-23
+CI-0075,Database,Database-446,,Production,,Dell,,2.7.0,2024-10-30,Error,,,MongoDB,,,US-West,User-34
+CI-0076,Server,Server-836,Windows Server 2019,Test,,Microsoft,192.168.12.215,3.3.2,2024-12-21,Error,4.0,53.0,,,,US-East,User-62
+CI-0077,NetworkDevice,NetworkDevice-887,,Test,,Oracle,192.168.156.126,3.2.9,2024-06-05,Error,,,,Ethernet,,US-East,User-83
+CI-0078,LoadBalancer,LoadBalancer-394,,Test,,HP,192.168.36.113,3.7.5,2024-12-29,Error,,,,,Round Robin,US-West,User-76
+CI-0079,Database,Database-200,,Test,,Cisco,,1.3.2,2024-09-20,Running,,,MongoDB,,,US-East,User-49
+CI-0080,Application,Application-671,,Production,database-1,Dell,,5.6.1,2024-05-26,Error,,,,,,US-West,User-20
+CI-0081,Server,Server-676,Windows Server 2019,Test,,Cisco,192.168.185.24,4.6.4,2025-01-09,Maintenance,9.0,42.0,,,,US-West,User-99
+CI-0082,Application,Application-680,,Staging,server-2,Dell,,3.3.3,2024-06-29,Running,,,,,,US-West,User-29
+CI-0083,NetworkDevice,NetworkDevice-338,,Staging,,HP,192.168.230.19,1.8.7,2024-06-22,Error,,,,Ethernet,,US-West,User-70
+CI-0084,LoadBalancer,LoadBalancer-343,,Production,,Dell,192.168.215.63,4.5.3,2024-08-03,Stopped,,,,,Least Connections,AP-Southeast,User-46
+CI-0085,Application,Application-368,,Staging,api-gateway-1,Dell,,3.7.9,2025-02-14,Running,,,,,,US-West,User-55
+CI-0086,Application,Application-367,,Staging,web-service-4,VMware,,2.9.0,2025-02-22,Stopped,,,,,,US-West,User-93
+CI-0087,Application,Application-340,,Test,server-4,VMware,,1.0.2,2024-11-28,Stopped,,,,,,AP-Southeast,User-72
+CI-0088,NetworkDevice,NetworkDevice-331,,Test,,Microsoft,192.168.160.95,5.7.4,2024-09-01,Running,,,,Wireless,,EU-Central,User-32
+CI-0089,Application,Application-165,,Staging,server-4,Dell,,1.5.0,2024-10-20,Error,,,,,,AP-Southeast,User-12
+CI-0090,Server,Server-641,macOS Server,Development,,Microsoft,192.168.92.60,4.3.5,2024-06-17,Running,13.0,19.0,,,,US-East,User-83
+CI-0091,LoadBalancer,LoadBalancer-519,,Test,,Dell,192.168.145.232,2.5.8,2024-04-01,Running,,,,,Round Robin,US-East,User-11
+CI-0092,NetworkDevice,NetworkDevice-592,,Production,,VMware,192.168.141.115,1.7.6,2024-04-24,Running,,,,Fiber,,EU-Central,User-92
+CI-0093,Application,Application-476,,Production,message-queue-1,VMware,,4.3.4,2024-03-30,Error,,,,,,US-West,User-38
+CI-0094,NetworkDevice,NetworkDevice-639,,Test,,Microsoft,192.168.14.231,5.6.6,2024-07-16,Maintenance,,,,Wireless,,US-East,User-18
+CI-0095,NetworkDevice,NetworkDevice-591,,Test,,Cisco,192.168.15.53,1.3.5,2024-12-29,Error,,,,Fiber,,EU-Central,User-83
+CI-0096,NetworkDevice,NetworkDevice-171,,Test,,Cisco,192.168.228.101,1.4.8,2024-10-17,Running,,,,Ethernet,,EU-Central,User-88
+CI-0097,LoadBalancer,LoadBalancer-458,,Staging,,VMware,192.168.71.50,4.5.3,2024-09-03,Error,,,,,IP Hash,EU-Central,User-78
+CI-0098,Application,Application-825,,Development,web-service-2,Cisco,,5.4.9,2024-04-19,Maintenance,,,,,,EU-Central,User-78
+CI-0099,LoadBalancer,LoadBalancer-788,,Production,,Oracle,192.168.179.137,1.8.3,2024-04-18,Running,,,,,Round Robin,US-East,User-51
+CI-0100,Server,Server-985,Linux CentOS 7,Test,,Cisco,192.168.33.95,2.4.5,2024-05-08,Stopped,9.0,17.0,,,,US-East,User-67

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        header {
+            background-color: #4CAF50; /* Blue background */
+            color: white; /* White text */
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+
+        header h1 {
+            margin: 0; /* Remove default margin */
+            font-size: 24px; /* Adjust font size */
+        }
+
+        #chat-container {
+            /* Add any existing styles for chat container here */
+            width: 80%; /* Example width, adjust as needed */
+            margin: 20px auto; /* Center the container */
+            border: 1px solid #ccc; /* Add a border */
+            padding: 10px;
+        }
+
+        #chat-log {
+            /* Add any existing styles for chat log here */
+            height: 300px; /* Example height */
+            overflow-y: auto; /* Enable vertical scrolling */
+            border-bottom: 1px solid #eee; /* Separate log from input */
+            padding: 10px;
+        }
+        #input-area{
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Agentic Integrated Tool for Support</h1>
+</header>
+<div id="chat-container">
+    <div id="chat-log"></div>
+    <div id="input-area">
+        <input type="text" id="user-input" placeholder="Type your message...">
+        <button id="plus-button">+</button>
+        <button id="send-button">Send</button>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

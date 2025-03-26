@@ -1,0 +1,151 @@
+Ticket ID,Problem Statement,Application,Logs,User,Creation Date,Resolution Date,Comments by Support Person,Status
+INC-00001,Middleware timeout.,api-gateway-1,Log entry 0,user3,2025-03-11 17:22:08.219185,,,In Progress
+INC-00002,Application is slow.,web-service-4,Log entry 1,user4,2025-03-07 17:22:08.219207,,,In Progress
+INC-00003,Backend Service crashed.,server-1,Log entry 2,user2,2025-02-27 17:22:08.219217,,,Open
+INC-00004,Middleware timeout.,web-service-2,Log entry 3,system_process,2025-03-15 17:22:08.219224,,,Open
+INC-00005,Frontend UI not loading.,cache-1,Log entry 4,user4,2025-03-22 17:22:08.219231,,,Pending
+INC-00006,API Service returned 500 error.,web-service-4,Log entry 5,user2,2025-03-07 17:22:08.219239,,,Escalated
+INC-00007,API Service returned 500 error.,web-service-1,Log entry 6,user3,2025-03-11 17:22:08.219245,2025-03-12 06:22:08.219245,Issue resolved. Root cause: Network issue.,Closed
+INC-00008,API Service returned 500 error.,server-2,Log entry 7,user4,2025-03-21 17:22:08.219253,2025-03-21 22:22:08.219253,Issue resolved. Data corrected.,Closed
+INC-00009,Backend Service crashed.,web-service-3,Log entry 8,user4,2025-03-10 17:22:08.219260,2025-03-10 23:22:08.219260,Issue resolved. Data corrected.,Resolved
+INC-00010,Network latency is high.,server-3,Log entry 9,user3,2025-03-20 17:22:08.219267,,,Open
+INC-00011,Network latency is high.,server-4,Log entry 10,user1,2025-03-12 17:22:08.219288,,,In Progress
+INC-00012,Middleware timeout.,server-1,Log entry 11,user2,2025-03-19 17:22:08.219295,2025-03-20 09:22:08.219295,Issue resolved. Fixed by restarting service.,Closed
+INC-00013,Backend Service crashed.,server-2,Log entry 12,user1,2025-03-05 17:22:08.219302,,,Pending
+INC-00014,Load Balancer overload.,server-1,Log entry 13,user2,2025-03-12 17:22:08.219309,2025-03-13 11:22:08.219309,Issue resolved. Data corrected.,Resolved
+INC-00015,API Service returned 500 error.,web-service-4,Log entry 14,user1,2025-02-25 17:22:08.219316,,,Escalated
+INC-00016,API Service returned 500 error.,web-service-3,Log entry 15,user4,2025-02-27 17:22:08.219322,,,Pending
+INC-00017,API Service returned 500 error.,server-3,Log entry 16,user1,2025-03-22 17:22:08.219329,,,In Progress
+INC-00018,API Service returned 500 error.,server-3,Log entry 17,user2,2025-03-11 17:22:08.219336,,,Escalated
+INC-00019,Backend Service crashed.,server-4,Log entry 18,user4,2025-03-14 17:22:08.219343,2025-03-14 21:22:08.219343,Issue resolved. Data corrected.,Resolved
+INC-00020,Middleware timeout.,web-service-4,Log entry 19,user1,2025-03-09 17:22:08.219350,,,Escalated
+INC-00021,API Service returned 500 error.,message-queue-1,Log entry 20,user1,2025-03-02 17:22:08.219356,,,Escalated
+INC-00022,API Service returned 500 error.,server-2,Log entry 21,user1,2025-03-09 17:22:08.219363,,,Escalated
+INC-00023,API Service returned 500 error.,server-4,Log entry 22,user2,2025-03-10 17:22:08.219369,2025-03-11 05:22:08.219369,Issue resolved. Data corrected.,Resolved
+INC-00024,Data corruption in Database Y.,server-1,Log entry 23,user4,2025-03-24 17:22:08.219375,,,Open
+INC-00025,Middleware timeout.,server-3,Log entry 24,user3,2025-03-14 17:22:08.219381,2025-03-14 22:22:08.219381,Issue resolved. Data corrected.,Resolved
+INC-00026,Application is slow.,web-service-4,Log entry 25,user1,2025-03-20 17:22:08.219388,2025-03-21 07:22:08.219388,Issue resolved. Data corrected.,Resolved
+INC-00027,Frontend UI not loading.,web-service-2,Log entry 26,system_process,2025-03-24 17:22:08.219394,,,Escalated
+INC-00028,Backend Service crashed.,cache-1,Log entry 27,user3,2025-03-02 17:22:08.219401,2025-03-03 08:22:08.219401,Issue resolved. Data corrected.,Resolved
+INC-00029,Data corruption in Database Y.,server-1,Log entry 28,user2,2025-03-23 17:22:08.219408,2025-03-23 18:22:08.219408,Issue resolved. Root cause: Network issue.,Resolved
+INC-00030,Backend Service crashed.,server-4,Log entry 29,user4,2025-03-21 17:22:08.219414,,,In Progress
+INC-00031,Load Balancer overload.,server-1,Log entry 30,user3,2025-03-03 17:22:08.219421,2025-03-04 15:22:08.219421,Issue resolved. Root cause: Network issue.,Resolved
+INC-00032,Data corruption in Database Y.,web-service-4,Log entry 31,user1,2025-03-19 17:22:08.219428,,,Open
+INC-00033,Frontend UI not loading.,message-queue-1,Log entry 32,user3,2025-02-26 17:22:08.219435,2025-02-27 12:22:08.219435,Issue resolved. Data corrected.,Resolved
+INC-00034,Middleware timeout.,cache-1,Log entry 33,user2,2025-03-11 17:22:08.219447,2025-03-12 14:22:08.219447,Issue resolved. Data corrected.,Closed
+INC-00035,Backend Service crashed.,message-queue-1,Log entry 34,user4,2025-03-09 17:22:08.219454,2025-03-09 18:22:08.219454,Issue resolved. Fixed by restarting service.,Resolved
+INC-00036,API Service returned 500 error.,server-1,Log entry 35,user3,2025-03-02 17:22:08.219466,,,Pending
+INC-00037,Frontend UI not loading.,cache-1,Log entry 36,user4,2025-03-09 17:22:08.219476,2025-03-10 11:22:08.219476,Issue resolved. Root cause: Network issue.,Closed
+INC-00038,Application is slow.,api-gateway-1,Log entry 37,user1,2025-03-06 17:22:08.219485,,,Escalated
+INC-00039,Backend Service crashed.,web-service-2,Log entry 38,user2,2025-03-06 17:22:08.219494,,,Open
+INC-00040,API Service returned 500 error.,cache-1,Log entry 39,system_process,2025-03-04 17:22:08.219503,2025-03-04 23:22:08.219503,Issue resolved. Fixed by restarting service.,Closed
+INC-00041,Backend Service crashed.,database-1,Log entry 40,user3,2025-03-18 17:22:08.219512,,,Pending
+INC-00042,Load Balancer overload.,database-1,Log entry 41,user3,2025-03-09 17:22:08.219521,,,Escalated
+INC-00043,Database connection failed.,server-3,Log entry 42,system_process,2025-03-13 17:22:08.219530,2025-03-14 14:22:08.219530,Issue resolved. Root cause: Network issue.,Resolved
+INC-00044,Backend Service crashed.,server-3,Log entry 43,user5,2025-03-01 17:22:08.219539,2025-03-02 07:22:08.219539,Issue resolved. Fixed by restarting service.,Resolved
+INC-00045,Network latency is high.,server-1,Log entry 44,system_process,2025-03-11 17:22:08.219548,2025-03-12 13:22:08.219548,Issue resolved. Fixed by restarting service.,Resolved
+INC-00046,Middleware timeout.,server-2,Log entry 45,system_process,2025-03-02 17:22:08.219557,,,In Progress
+INC-00047,Middleware timeout.,cache-1,Log entry 46,user5,2025-03-11 17:22:08.219566,,,In Progress
+INC-00048,Application is slow.,server-1,Log entry 47,user2,2025-03-06 17:22:08.219575,,,Escalated
+INC-00049,Load Balancer overload.,server-3,Log entry 48,user5,2025-03-14 17:22:08.219584,2025-03-14 20:22:08.219584,Issue resolved. Root cause: Network issue.,Resolved
+INC-00050,Frontend UI not loading.,server-4,Log entry 49,user4,2025-03-03 17:22:08.219593,2025-03-04 05:22:08.219593,Issue resolved. Root cause: Network issue.,Closed
+INC-00051,Network latency is high.,web-service-2,Log entry 50,system_process,2025-03-09 17:22:08.219602,,,Pending
+INC-00052,Database connection failed.,server-3,Log entry 51,user1,2025-03-22 17:22:08.219610,,,In Progress
+INC-00053,Application is slow.,server-2,Log entry 52,user4,2025-03-18 17:22:08.219619,,,Pending
+INC-00054,Load Balancer overload.,server-4,Log entry 53,user1,2025-03-17 17:22:08.219629,2025-03-17 22:22:08.219629,Issue resolved. Fixed by restarting service.,Resolved
+INC-00055,Frontend UI not loading.,server-1,Log entry 54,user3,2025-03-19 17:22:08.219637,,,Escalated
+INC-00056,Application is slow.,server-3,Log entry 55,user3,2025-03-11 17:22:08.219654,2025-03-12 02:22:08.219654,Issue resolved. Root cause: Network issue.,Resolved
+INC-00057,User unable to login.,web-service-3,Log entry 56,user5,2025-02-28 17:22:08.219662,,,Open
+INC-00058,Load Balancer overload.,message-queue-1,Log entry 57,system_process,2025-03-22 17:22:08.219667,,,In Progress
+INC-00059,Network latency is high.,web-service-4,Log entry 58,user3,2025-02-28 17:22:08.219671,,,Open
+INC-00060,Network latency is high.,cache-1,Log entry 59,user5,2025-03-19 17:22:08.219674,2025-03-20 12:22:08.219674,Issue resolved. Root cause: Network issue.,Closed
+INC-00061,API Service returned 500 error.,web-service-2,Log entry 60,system_process,2025-03-03 17:22:08.219678,2025-03-04 03:22:08.219678,Issue resolved. Fixed by restarting service.,Resolved
+INC-00062,User unable to login.,api-gateway-1,Log entry 61,system_process,2025-03-17 17:22:08.219682,2025-03-17 20:22:08.219682,Issue resolved. Root cause: Network issue.,Closed
+INC-00063,Load Balancer overload.,web-service-2,Log entry 62,user4,2025-02-26 17:22:08.219686,,,Open
+INC-00064,Data corruption in Database Y.,server-1,Log entry 63,user1,2025-03-08 17:22:08.219690,,,Pending
+INC-00065,Database connection failed.,web-service-3,Log entry 64,system_process,2025-02-25 17:22:08.219693,,,In Progress
+INC-00066,API Service returned 500 error.,server-2,Log entry 65,user2,2025-03-22 17:22:08.219697,,,Open
+INC-00067,API Service returned 500 error.,api-gateway-1,Log entry 66,user2,2025-03-23 17:22:08.219701,,,In Progress
+INC-00068,Data corruption in Database Y.,api-gateway-1,Log entry 67,user5,2025-03-13 17:22:08.219705,,,Pending
+INC-00069,Application is slow.,server-2,Log entry 68,user5,2025-03-19 17:22:08.219709,,,Open
+INC-00070,User unable to login.,server-2,Log entry 69,user1,2025-03-15 17:22:08.219713,,,In Progress
+INC-00071,Data corruption in Database Y.,server-3,Log entry 70,user1,2025-03-12 17:22:08.219717,,,Escalated
+INC-00072,API Service returned 500 error.,web-service-3,Log entry 71,user5,2025-03-03 17:22:08.219720,2025-03-04 07:22:08.219720,Issue resolved. Root cause: Network issue.,Closed
+INC-00073,User unable to login.,web-service-2,Log entry 72,system_process,2025-03-18 17:22:08.219724,2025-03-19 04:22:08.219724,Issue resolved. Root cause: Network issue.,Closed
+INC-00074,Database connection failed.,web-service-4,Log entry 73,system_process,2025-03-02 17:22:08.219728,2025-03-03 16:22:08.219728,Issue resolved. Root cause: Network issue.,Closed
+INC-00075,Middleware timeout.,web-service-2,Log entry 74,user3,2025-03-21 17:22:08.219732,,,Open
+INC-00076,User unable to login.,message-queue-1,Log entry 75,system_process,2025-03-11 17:22:08.219736,2025-03-12 05:22:08.219736,Issue resolved. Data corrected.,Resolved
+INC-00077,API Service returned 500 error.,server-3,Log entry 76,user3,2025-03-20 17:22:08.219739,,,Pending
+INC-00078,Frontend UI not loading.,web-service-2,Log entry 77,user4,2025-03-22 17:22:08.219744,,,Open
+INC-00079,API Service returned 500 error.,server-3,Log entry 78,user2,2025-02-25 17:22:08.219748,,,Escalated
+INC-00080,Backend Service crashed.,api-gateway-1,Log entry 79,system_process,2025-03-18 17:22:08.219752,,,Escalated
+INC-00081,Load Balancer overload.,database-1,Log entry 80,user3,2025-02-28 17:22:08.219755,2025-03-01 02:22:08.219755,Issue resolved. Data corrected.,Closed
+INC-00082,User unable to login.,web-service-3,Log entry 81,user5,2025-03-03 17:22:08.219759,2025-03-04 16:22:08.219759,Issue resolved. Root cause: Network issue.,Resolved
+INC-00083,Network latency is high.,web-service-2,Log entry 82,system_process,2025-02-28 17:22:08.219763,2025-03-01 12:22:08.219763,Issue resolved. Data corrected.,Resolved
+INC-00084,Frontend UI not loading.,web-service-4,Log entry 83,user1,2025-03-14 17:22:08.219767,,,Open
+INC-00085,Backend Service crashed.,cache-1,Log entry 84,user1,2025-03-07 17:22:08.219771,2025-03-08 07:22:08.219771,Issue resolved. Fixed by restarting service.,Closed
+INC-00086,Network latency is high.,web-service-2,Log entry 85,user2,2025-03-14 17:22:08.219775,,,Open
+INC-00087,Frontend UI not loading.,api-gateway-1,Log entry 86,user5,2025-03-01 17:22:08.219778,2025-03-02 02:22:08.219778,Issue resolved. Data corrected.,Closed
+INC-00088,User unable to login.,server-4,Log entry 87,system_process,2025-03-23 17:22:08.219782,,,Pending
+INC-00089,API Service returned 500 error.,web-service-4,Log entry 88,user5,2025-03-18 17:22:08.219786,,,Open
+INC-00090,Backend Service crashed.,message-queue-1,Log entry 89,system_process,2025-03-14 17:22:08.219790,2025-03-15 00:22:08.219790,Issue resolved. Root cause: Network issue.,Closed
+INC-00091,Database connection failed.,web-service-2,Log entry 90,user1,2025-02-28 17:22:08.219793,,,Open
+INC-00092,Database connection failed.,database-1,Log entry 91,user4,2025-03-04 17:22:08.219797,,,In Progress
+INC-00093,Database connection failed.,web-service-1,Log entry 92,user4,2025-02-25 17:22:08.219801,,,Escalated
+INC-00094,User unable to login.,web-service-3,Log entry 93,system_process,2025-03-21 17:22:08.219805,,,Pending
+INC-00095,Frontend UI not loading.,web-service-4,Log entry 94,user5,2025-03-20 17:22:08.219809,,,In Progress
+INC-00096,User unable to login.,web-service-3,Log entry 95,user2,2025-03-06 17:22:08.219813,2025-03-07 01:22:08.219813,Issue resolved. Data corrected.,Resolved
+INC-00097,Frontend UI not loading.,message-queue-1,Log entry 96,user4,2025-02-25 17:22:08.219817,2025-02-25 19:22:08.219817,Issue resolved. Data corrected.,Closed
+INC-00098,Database connection failed.,server-4,Log entry 97,user1,2025-03-16 17:22:08.219820,,,Escalated
+INC-00099,API Service returned 500 error.,web-service-3,Log entry 98,system_process,2025-03-23 17:22:08.219824,,,Open
+INC-00100,Backend Service crashed.,server-4,Log entry 99,user3,2025-03-23 17:22:08.219828,2025-03-24 14:22:08.219828,Issue resolved. Data corrected.,Resolved
+INC-00101,Database connection failed.,server-3,Log entry 100,user4,2025-03-06 17:22:08.219832,2025-03-07 09:22:08.219832,Issue resolved. Root cause: Network issue.,Closed
+INC-00102,Backend Service crashed.,cache-1,Log entry 101,user1,2025-02-26 17:22:08.219836,2025-02-27 15:22:08.219836,Issue resolved. Root cause: Network issue.,Resolved
+INC-00103,User unable to login.,web-service-1,Log entry 102,user3,2025-03-05 17:22:08.219840,,,Escalated
+INC-00104,Database connection failed.,web-service-2,Log entry 103,user2,2025-03-04 17:22:08.219843,,,Open
+INC-00105,Middleware timeout.,message-queue-1,Log entry 104,user5,2025-03-08 17:22:08.219847,,,Pending
+INC-00106,Database connection failed.,web-service-3,Log entry 105,user1,2025-03-09 17:22:08.219851,2025-03-09 22:22:08.219851,Issue resolved. Fixed by restarting service.,Closed
+INC-00107,Network latency is high.,web-service-3,Log entry 106,user3,2025-03-13 17:22:08.219855,,,Pending
+INC-00108,Application is slow.,server-3,Log entry 107,user2,2025-03-20 17:22:08.219859,2025-03-21 16:22:08.219859,Issue resolved. Data corrected.,Resolved
+INC-00109,Middleware timeout.,web-service-2,Log entry 108,user4,2025-03-16 17:22:08.219862,2025-03-17 03:22:08.219862,Issue resolved. Root cause: Network issue.,Resolved
+INC-00110,Network latency is high.,web-service-4,Log entry 109,user4,2025-03-15 17:22:08.219866,,,Open
+INC-00111,Middleware timeout.,server-1,Log entry 110,user2,2025-03-24 17:22:08.219870,2025-03-25 04:22:08.219870,Issue resolved. Data corrected.,Closed
+INC-00112,Network latency is high.,web-service-3,Log entry 111,user4,2025-03-08 17:22:08.219874,2025-03-08 23:22:08.219874,Issue resolved. Fixed by restarting service.,Resolved
+INC-00113,User unable to login.,web-service-2,Log entry 112,user4,2025-03-07 17:22:08.219878,,,Escalated
+INC-00114,Network latency is high.,message-queue-1,Log entry 113,user2,2025-03-07 17:22:08.219881,,,In Progress
+INC-00115,Data corruption in Database Y.,database-1,Log entry 114,user5,2025-03-10 17:22:08.219885,,,In Progress
+INC-00116,Middleware timeout.,server-2,Log entry 115,system_process,2025-03-05 17:22:08.219889,2025-03-06 12:22:08.219889,Issue resolved. Fixed by restarting service.,Resolved
+INC-00117,Frontend UI not loading.,server-4,Log entry 116,user1,2025-02-27 17:22:08.219893,,,Escalated
+INC-00118,Load Balancer overload.,web-service-1,Log entry 117,user5,2025-03-22 17:22:08.219897,,,Open
+INC-00119,API Service returned 500 error.,server-4,Log entry 118,user1,2025-03-07 17:22:08.219901,,,Pending
+INC-00120,User unable to login.,server-4,Log entry 119,user5,2025-03-11 17:22:08.219904,,,Escalated
+INC-00121,Database connection failed.,server-3,Log entry 120,user2,2025-03-16 17:22:08.219908,2025-03-17 03:22:08.219908,Issue resolved. Root cause: Network issue.,Resolved
+INC-00122,API Service returned 500 error.,message-queue-1,Log entry 121,user2,2025-03-16 17:22:08.219912,,,In Progress
+INC-00123,Backend Service crashed.,database-1,Log entry 122,system_process,2025-03-13 17:22:08.219916,2025-03-14 13:22:08.219916,Issue resolved. Fixed by restarting service.,Closed
+INC-00124,Frontend UI not loading.,database-1,Log entry 123,user5,2025-02-27 17:22:08.219920,,,In Progress
+INC-00125,Frontend UI not loading.,web-service-3,Log entry 124,system_process,2025-03-15 17:22:08.219923,,,Escalated
+INC-00126,Database connection failed.,server-2,Log entry 125,user2,2025-03-17 17:22:08.219927,,,Escalated
+INC-00127,Network latency is high.,server-1,Log entry 126,user4,2025-03-16 17:22:08.219931,2025-03-17 13:22:08.219931,Issue resolved. Fixed by restarting service.,Resolved
+INC-00128,API Service returned 500 error.,message-queue-1,Log entry 127,user5,2025-03-01 17:22:08.219935,2025-03-01 20:22:08.219935,Issue resolved. Fixed by restarting service.,Closed
+INC-00129,Data corruption in Database Y.,server-3,Log entry 128,user3,2025-03-22 17:22:08.219939,2025-03-23 11:22:08.219939,Issue resolved. Root cause: Network issue.,Closed
+INC-00130,Network latency is high.,message-queue-1,Log entry 129,user3,2025-03-21 17:22:08.219943,,,Pending
+INC-00131,API Service returned 500 error.,web-service-4,Log entry 130,user4,2025-03-16 17:22:08.219947,,,Escalated
+INC-00132,Frontend UI not loading.,server-3,Log entry 131,user3,2025-02-28 17:22:08.219951,,,Pending
+INC-00133,Network latency is high.,api-gateway-1,Log entry 132,user4,2025-03-18 17:22:08.219955,2025-03-18 22:22:08.219955,Issue resolved. Fixed by restarting service.,Closed
+INC-00134,Load Balancer overload.,api-gateway-1,Log entry 133,user3,2025-02-28 17:22:08.219958,2025-03-01 16:22:08.219958,Issue resolved. Fixed by restarting service.,Closed
+INC-00135,Application is slow.,server-4,Log entry 134,user2,2025-03-04 17:22:08.219962,,,In Progress
+INC-00136,Database connection failed.,server-3,Log entry 135,system_process,2025-03-06 17:22:08.219966,,,Escalated
+INC-00137,Backend Service crashed.,message-queue-1,Log entry 136,user2,2025-02-24 17:22:08.219970,2025-02-25 12:22:08.219970,Issue resolved. Fixed by restarting service.,Resolved
+INC-00138,Frontend UI not loading.,web-service-3,Log entry 137,system_process,2025-03-09 17:22:08.219974,,,Escalated
+INC-00139,User unable to login.,web-service-3,Log entry 138,user2,2025-03-13 17:22:08.219977,2025-03-14 01:22:08.219977,Issue resolved. Fixed by restarting service.,Closed
+INC-00140,Frontend UI not loading.,message-queue-1,Log entry 139,user4,2025-02-27 17:22:08.219981,,,Pending
+INC-00141,Application is slow.,server-1,Log entry 140,user1,2025-03-08 17:22:08.219985,,,Escalated
+INC-00142,API Service returned 500 error.,web-service-3,Log entry 141,user2,2025-03-12 17:22:08.219989,,,In Progress
+INC-00143,API Service returned 500 error.,server-1,Log entry 142,user4,2025-03-20 17:22:08.219993,,,Open
+INC-00144,API Service returned 500 error.,database-1,Log entry 143,user2,2025-03-07 17:22:08.219997,2025-03-08 15:22:08.219997,Issue resolved. Root cause: Network issue.,Closed
+INC-00145,Database connection failed.,message-queue-1,Log entry 144,user5,2025-03-05 17:22:08.220000,,,Open
+INC-00146,Application is slow.,web-service-4,Log entry 145,user5,2025-03-16 17:22:08.220004,2025-03-17 11:22:08.220004,Issue resolved. Data corrected.,Resolved
+INC-00147,Load Balancer overload.,server-3,Log entry 146,user3,2025-03-11 17:22:08.220008,2025-03-11 23:22:08.220008,Issue resolved. Fixed by restarting service.,Resolved
+INC-00148,Database connection failed.,web-service-3,Log entry 147,user5,2025-02-28 17:22:08.220012,2025-02-28 21:22:08.220012,Issue resolved. Root cause: Network issue.,Closed
+INC-00149,Application is slow.,server-4,Log entry 148,user4,2025-03-17 17:22:08.220016,,,Pending
+INC-00150,Database connection failed.,database-1,Log entry 149,user4,2025-03-11 17:22:08.220020,,,In Progress
